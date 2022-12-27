@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, welcome to my repo.
 
 [![HTB](https://www.hackthebox.eu/badge/image/273994)](https://app.hackthebox.com/profile/273994)
 

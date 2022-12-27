@@ -5,7 +5,7 @@
 
 ## A little bit about me
 
-🎓 &nbsp;I'm currently doing training courses and engaged on several practical training platforms
+🎓 &nbsp;I'm always engaged in training courses and engaged on several practical training platforms
 
 [![HTB](https://www.hackthebox.eu/badge/image/273994)](https://app.hackthebox.com/profile/273994)
 

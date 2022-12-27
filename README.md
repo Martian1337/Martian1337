@@ -1,7 +1,7 @@
 ### Hello, welcome to my repo.
 
 
-<h3 align="center">Application Security Consultant @ <a href='https://martiandefense.llc'>Martian Defense</a> | Jr. Appliaction Security Engineer | Technical Content Writer @ <a href='https://martian1337.medium.com'> Medium</a></h3>
+<h3 align="center">Application Security Consultant @ <a href='https://martiandefense.llc'>Martian Defense</a> | Jr. Application Security Engineer | Technical Content Writer @ <a href='https://martian1337.medium.com'> Medium</a></h3>
 
 ## A little bit about me
 

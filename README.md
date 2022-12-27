@@ -6,5 +6,5 @@ I am a CYBERSECURITY RESEARCHER⚡, 🤗. I love to learn new topics within Info
 
 - 💟 Consultant Website [Martian Defense](https://martiandefense.llc/)
 - 🔭 Martian Defense Merch [Merch Shop](https://shop.martiandefense.llc/)
-- 🌱 I’m learning application security engineering.
+- 🌱 I’m currently learning application security engineering.
 - 📫 How to follow me: [My Linktree](https://linktr.ee/martian1337)

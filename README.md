@@ -8,6 +8,7 @@
 🎓 &nbsp;I'm always engaged in training courses and engaged on several practical training platforms
 
 [![HTB](https://www.hackthebox.eu/badge/image/273994)](https://app.hackthebox.com/profile/273994)
+[![CodeWars](https://www.codewars.com/users/Martian1337/badges/large)](https://www.codewars.com/users/Martian1337)
 
 I am an Application Security Researcher⚡, 🤗.
 

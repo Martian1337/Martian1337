@@ -42,5 +42,6 @@ NOTE: This does not indicate my skill level or language proficiency, these are j
 - [eWPT to eWPTX Certified in 45 days (without INE labs) — Exam Review and Tips](https://systemweakness.com/ewpt-to-ewptx-certified-in-45-days-without-ine-labs-22d4e64da57b)
 - [Exploiting CVE-2022–42889 (Text4Shell/ACT4Shell)](https://systemweakness.com/walkthrough-of-exploiting-cve-2022-42889-text4shell-act4shell-558b37fbc273)
 - [The Application Penetration Testing Process: A checklist for every engagement](https://systemweakness.com/the-application-penetration-testing-process-a-checklist-for-every-engagement-d89e9f4dfd9c)
+- [Bug Bounty for Beginners (Part 1): Utilizing OWASP to get into BBPs](https://read.martiandefense.llc/bug-bounty-for-beginners-part-1-utilizing-owasp-to-get-into-bbps-ceda80e75434)
 
 <!-- Article-List:END -->

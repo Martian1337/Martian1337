@@ -17,7 +17,10 @@ I am an Application Security Researcher⚡, 🤗.
 - 💟 Consultant Website [Martian Defense](https://martiandefense.llc/)
 - 🔭 Martian Defense [Merch Shop](https://shop.martiandefense.llc/)
 - 🌱 I’m currently learning application security engineering.
-- 📫 How to follow me: [My Linktree](https://linktr.ee/martian1337)
+- 📫 Follow me: [Linktree](https://linktr.ee/martian1337) and [LinkedIN](https://www.linkedin.com/in/dion-rupert-jr?trk=profile-badge)
+
+              
+              
 
 🌱 &nbsp;I'm on track with learning more about Mobile apps, cloud security, and network pentesting.\
 ✍️ &nbsp;In my free time, I enjoy doing cybersecurity related activities on my [Discord Server](https://discord.gg/uQzhuCpqTd).

@@ -26,6 +26,12 @@ I am an Application Security Researcher⚡, 🤗.
 Feel free to support me using the donation button below
 
 <a target="_blank" href="https://donorbox.org/martian-defense"><img src="https://donorbox.org/images/png-donate/button-medium-blue.png" /></a>
+
+
+The donations enable me to work on various Cybersecurity projects so that I can share with the industry.
+
+The intent is to bring Optimized code and tools allow penetration testers and software security professionals to be proficient in their skills.
+
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martian1337&theme=zenburn)

@@ -50,5 +50,6 @@ NOTE: This does not indicate my skill level or language proficiency, these are j
 - [Exploiting CVE-2022–42889 (Text4Shell/ACT4Shell)](https://systemweakness.com/walkthrough-of-exploiting-cve-2022-42889-text4shell-act4shell-558b37fbc273)
 - [The Application Penetration Testing Process: A checklist for every engagement](https://systemweakness.com/the-application-penetration-testing-process-a-checklist-for-every-engagement-d89e9f4dfd9c)
 - [Bug Bounty for Beginners (Part 1): Utilizing OWASP to get into BBPs](https://read.martiandefense.llc/bug-bounty-for-beginners-part-1-utilizing-owasp-to-get-into-bbps-ceda80e75434)
+- [Bug Bounty for Beginners (Part 2): Recon for Modern Bug Bounty Hunting](https://read.martiandefense.llc/bug-bounty-for-beginners-part-2-recon-for-modern-bug-bounty-hunting-fdd40a6289a4)
 
 <!-- Article-List:END -->

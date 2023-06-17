@@ -1,4 +1,4 @@
-### Hello, welcome to my repo.
+### Welcome to my cyber portfolio!
 
 
 <h3 align="center">Application Security Consultant @ <a href='https://martiandefense.llc'>Martian Defense</a> | Jr. Application Security Engineer | Technical Content Writer @ <a href='https://martian1337.medium.com'> Medium</a></h3>
@@ -17,7 +17,7 @@ I am an Application Security Researcher⚡, 🤗.
 - 💟 Consultant Website [Martian Defense](https://martiandefense.llc/)
 - 🔭 Martian Defense [Merch Shop](https://shop.martiandefense.llc/)
 - 🌱 I’m currently learning application security engineering.
-- 📫 Follow me: [Linktree](https://linktr.ee/martian1337) and [LinkedIN](https://www.linkedin.com/in/dion-rupert-jr?trk=profile-badge)
+- 📫 Follow me: [All Links](https://links.martiandefense.llc) and [LinkedIN](https://www.linkedin.com/in/dion-rupert-jr?trk=profile-badge)
 
 
 🌱 &nbsp;I'm on track with learning more about Mobile apps, cloud security, and network pentesting.\
@@ -56,5 +56,20 @@ NOTE: This does not indicate my skill level or language proficiency, these are j
 - [Outlining the Vulnerability Assessment Report](https://medium.com/martian-defense/outlining-the-vulnerability-assessment-report-da3d6ed93863)
 - [Outlining the Penetration Test Report](https://medium.com/martian-defense/outlining-the-penetration-test-report-9078f7539e1b)
 - [Unvelining Trickest: My Secret Weapon for Automating the Bug Bounty Hunt](https://read.martiandefense.llc/unveiling-trickest-my-secret-weapon-for-automating-the-bug-bounty-hunt-80e274863244)
+
+
+      <style>
+        .onlinecoursehost-99877 {
+          height: 787px;
+        }
+
+        @media screen and (max-width: 600px) {
+          .onlinecoursehost-99877 {
+            height: 943px;
+          }
+        }
+      </style>
+      <iframe scrolling="no" allow="fullscreen" class="onlinecoursehost-99877" style='border: none; width: 100%;' src="https://app.onlinecoursehost.com/course-embed/niMvE7aaJGWafG9zQ0YKG4ttvM93/wstg"></iframe>
+    
 
 <!-- Article-List:END -->

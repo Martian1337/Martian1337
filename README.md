@@ -55,7 +55,7 @@ NOTE: This does not indicate my skill level or language proficiency, these are j
 - [Cybersecurity Risks of 5G connectivity on IoT devices](https://read.martiandefense.llc/cybersecurity-risks-of-5g-connectivity-on-iot-devices-4ca4e70863cd)
 - [Outlining the Vulnerability Assessment Report](https://medium.com/martian-defense/outlining-the-vulnerability-assessment-report-da3d6ed93863)
 - [Outlining the Penetration Test Report](https://medium.com/martian-defense/outlining-the-penetration-test-report-9078f7539e1b)
-- [Unvelining Trickest: My Secret Weapon for Automating the Bug Bounty Hunt](https://read.martiandefense.llc/unveiling-trickest-my-secret-weapon-for-automating-the-bug-bounty-hunt-80e274863244)
+- [Unveiling Trickest: My Secret Weapon for Automating the Bug Bounty Hunt](https://read.martiandefense.llc/unveiling-trickest-my-secret-weapon-for-automating-the-bug-bounty-hunt-80e274863244)
     
 
 <!-- Article-List:END -->

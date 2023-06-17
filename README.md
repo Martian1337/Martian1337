@@ -56,20 +56,6 @@ NOTE: This does not indicate my skill level or language proficiency, these are j
 - [Outlining the Vulnerability Assessment Report](https://medium.com/martian-defense/outlining-the-vulnerability-assessment-report-da3d6ed93863)
 - [Outlining the Penetration Test Report](https://medium.com/martian-defense/outlining-the-penetration-test-report-9078f7539e1b)
 - [Unvelining Trickest: My Secret Weapon for Automating the Bug Bounty Hunt](https://read.martiandefense.llc/unveiling-trickest-my-secret-weapon-for-automating-the-bug-bounty-hunt-80e274863244)
-
-
-      <style>
-        .onlinecoursehost-99877 {
-          height: 787px;
-        }
-
-        @media screen and (max-width: 600px) {
-          .onlinecoursehost-99877 {
-            height: 943px;
-          }
-        }
-      </style>
-      <iframe scrolling="no" allow="fullscreen" class="onlinecoursehost-99877" style='border: none; width: 100%;' src="https://app.onlinecoursehost.com/course-embed/niMvE7aaJGWafG9zQ0YKG4ttvM93/wstg"></iframe>
     
 
 <!-- Article-List:END -->

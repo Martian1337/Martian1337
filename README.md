@@ -21,7 +21,7 @@ I am an Application Security Engineer/Researcher.
 
 
 🌱 &nbsp;I'm on track with learning more about Mobile apps, cloud security, and network pentesting.\
-✍️ &nbsp;In my free time, I enjoy doing cybersecurity related activities on my [Discord Server](https://discord.com/servers/martian-defense-cyber-team-cybersecurity-966495228385198150).
+✍️ &nbsp;In my free time, I enjoy doing cybersecurity related activities on my [Discord Server](https://join.martiandefense.llc).
 
 ---
 

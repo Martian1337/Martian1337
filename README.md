@@ -1,10 +1,10 @@
 # Explore the Cyber Realm 🌐
 
-Welcome to my world of cybersecurity, where passion meets expertise! I'm an Application Security Consultant at [Martian Defense](https://martiandefense.llc), a Junior Application Security Engineer, and a Technical Content Writer at [Medium](https://martian1337.medium.com).
+Welcome to my world of cybersecurity, where passion meets expertise! I'm an Application Security Consultant at [Martian Defense](https://martiandefense.llc), an Application Security Engineer, and a Technical Content Writer at [Medium](https://martian1337.medium.com).
 
 ## About Me
 
-I'm not just a cybersecurity enthusiast; I'm a relentless learner. 🎓 My journey involves continuous training and hands-on experience. I'm here to help you navigate the exciting realm of cybersecurity.
+I'm not just a cybersecurity enthusiast (unlike the modern trend where the "cyber enthusiast/infulencer" has no experience at all); I'm a relentless learner and technical trainer that is actively engaged in multiple domains within the cyberspace. 🎓 My journey involves continuous training and hands-on experience. I'm here to help you navigate the exciting realm of cybersecurity.
 
 - 💡 Passionate about making the digital world safer.
 - 🌱 Currently deep diving into the intricacies of application security engineering.

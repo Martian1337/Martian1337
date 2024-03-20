@@ -94,7 +94,6 @@ Your support fuels my cybersecurity projects, where I craft optimized code, reso
 - [YouTube Channel](https://www.youtube.com/@MartianDefense)
 - [InfoHunter (Web Recon Tool)](https://hunt.martiandefense.llc/)
 - [CyberSpace Dashboard](https://start.me/p/ADPELy/cyberspace)
-- [DevSecOps Pipeline 1 for Learners](https://book.martiandefense.llc/field-notes/devsecops/lab-1)
 - [Online Courses (in-progress/unavailable)](https://edu.martiandefense.llc/)
 
 Together, we're making the digital landscape safer!

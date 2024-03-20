@@ -62,7 +62,7 @@ These languages and frameworks have played a crucial role in my cybersecurity as
 
 ## Published Articles 📚
 
-I've penned down my cybersecurity experiences for you:
+### General Cybersecurity
 
 - [Deploy vulnerable web applications for Application Security (AppSec) training in under 25 minutes](https://systemweakness.com/deploy-vulnerable-web-applications-for-application-security-appsec-training-in-under-30-minutes-1554585ccd74) (System Weakness Publication)
 - [eWPT to eWPTX Certified in 45 days (without INE labs) — Exam Review and Tips](https://systemweakness.com/ewpt-to-ewptx-certified-in-45-days-without-ine-labs-22d4e64da57b) (System Weakness Publication)
@@ -78,6 +78,12 @@ I've penned down my cybersecurity experiences for you:
 - [Mobile App Pentesting: AndroGOAT Assessment Walkthrough](https://infosecwriteups.com/mobile-pentesting-androgoat-assessment-walkthrough-1a63a7edc677) (Published in InfoSec Writeups Blog)
 - [Google Dorking and Shodan Exploration for Beginners: Unveiling Exposed Webcams](https://www.martiandefense.llc/post/google-dorking-and-shodan-exploration-for-beginners-unveiling-exposed-webcams)
 
+### Privacy and Digital Hygiene Content
+
+- [Data Broker Protection](https://www.martiandefense.llc/post/practicing-digital-hygiene-data-broker-protection)
+- [Using Password Managers](https://www.martiandefense.llc/post/practicing-digital-hygiene-using-password-managers)
+- [Safe Browsing](https://www.martiandefense.llc/post/practicing-digital-hygiene-safe-browsing)
+- [Using Multi-factor Authentication](https://www.martiandefense.llc/post/practicing-digital-hygiene-mfa-for-the-win)
 ---
 
 ## Additional Content/Projects 🛠️

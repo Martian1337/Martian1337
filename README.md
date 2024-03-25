@@ -97,10 +97,9 @@ Your support fuels my cybersecurity projects, where I craft optimized code, reso
 - [Online Courses (in-progress/unavailable)](https://edu.martiandefense.llc/)
 
 Together, we're making the digital landscape safer!
-
 ---
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/dion-rupert-jr?trk=profile-badge) and explore more at [Martian Defense](https://martiandefense.llc). Thank you for visiting my cyber portfolio! 🚀🔒
+Connect with me on [LinkedIn](https://www.linkedin.com/company/martian-defense/) and explore more at [Martian Defense](https://martiandefense.llc). Thank you for visiting my cyber portfolio! 🚀🔒
 
 [![Hack The Box](https://www.hackthebox.eu/badge/image/273994)](https://app.hackthebox.com/profile/273994)
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Martian1337.png)](https://tryhackme.com/p/Martian1337)

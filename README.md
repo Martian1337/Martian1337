@@ -1,15 +1,14 @@
 # Explore the Cyber Realm 🌐
 
-Welcome to my world of cybersecurity, where passion meets expertise! I'm an Application Security Consultant at [Martian Defense](https://martiandefense.llc), an Application Security Engineer, and a Technical Content Writer at [Medium](https://martian1337.medium.com).
+Welcome to my world of cybersecurity, where passion meets expertise! I'm an application security engineer, securty researcher, security trainer and technical content writer.
 
 ## About Me
 
 I'm not just a cybersecurity enthusiast (unlike the modern trend where the "cyber enthusiast/infulencer" has no experience at all); I'm a relentless learner and technical trainer that is actively engaged in multiple domains within the cyberspace. 🎓 My journey involves continuous training and hands-on experience. I'm here to help you navigate the exciting realm of cybersecurity.
 
 - 💡 Passionate about making the digital world safer.
-- 🌱 Currently deep diving into the intricacies of application security engineering.
-- 🔥 Check out the [Martian Defense Merch Shop](https://shop.martiandefense.llc/) for some cyber swag.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dion-rupert-jr?trk=profile-badge) and discover all my social links at [Links](https://links.martiandefense.llc).
+- 🌱 Currently deep diving into the intricacies of exploit development, penetration 
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bwfydglhbjezmzc) and discover all my social links at [Links](https://links.martiandefense.llc).
 
 In my spare moments, I curate a [Discord Server](https://join.martiandefense.llc) dedicated to cybersecurity activities. I'm actively exploring mobile app security, cloud fortifications, and the art of network penetration testing.
 
@@ -96,13 +95,13 @@ Your support fuels my cybersecurity projects, where I craft optimized code, reso
 - [CyberSpace Dashboard](https://start.me/p/ADPELy/cyberspace)
 - [Online Courses (in-progress/unavailable)](https://edu.martiandefense.llc/)
 
+If you enjoy the occasional online training platform feel free to join me on the platforms below:
+
+[![Hack The Box](https://www.hackthebox.eu/badge/image/273994)](https://app.hackthebox.com/profile/273994)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Martian1337.png)](https://tryhackme.com/p/Martian1337)
+
 Together, we're making the digital landscape safer!
 ---
 
 Connect with me on [LinkedIn](https://www.linkedin.com/company/martian-defense/) and explore more at [Martian Defense](https://martiandefense.llc). Thank you for visiting my cyber portfolio! 🚀🔒
-
-[![Hack The Box](https://www.hackthebox.eu/badge/image/273994)](https://app.hackthebox.com/profile/273994)
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Martian1337.png)](https://tryhackme.com/p/Martian1337)
-[![CodeWars](https://www.codewars.com/users/Martian1337/badges/large)](https://www.codewars.com/users/Martian1337)
-
 

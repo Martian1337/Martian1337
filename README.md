@@ -4,7 +4,7 @@ Welcome to my world of cybersecurity, where passion meets expertise! I'm an appl
 
 ## About Me
 
-I'm not just a cybersecurity enthusiast (unlike the modern trend where the "cyber enthusiast/infulencer" has no experience at all); I'm a relentless learner and technical trainer that is actively engaged in multiple domains within the cyberspace. 🎓 My journey involves continuous training and hands-on experience. I'm here to help you navigate the exciting realm of cybersecurity.
+I'm not just a cybersecurity enthusiast; I'm a relentless learner and technical trainer that is actively engaged in multiple domains within the cyberspace. 🎓 My journey involves continuous training and hands-on experience. I'm here to help you navigate the exciting realm of cybersecurity.
 
 - 💡 Passionate about making the digital world safer.
 - 🌱 Currently deep diving into the intricacies of exploit development, penetration 

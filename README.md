@@ -188,9 +188,11 @@ Walkthroughs, tooling, and training content on offensive security.
 Latest posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bug Bounty for Beginners (Part 3): Understanding The Reporting Process](https://www.martiandefense.org/post/bug-bounty-for-beginners-part-3-understanding-the-reporting-process)
-- [Unveiling Trickest: My Secret Weapon for Automating the Bug Bounty Hunt](https://read.martiandefense.org/unveiling-trickest-my-secret-weapon-for-automating-the-bug-bounty-hunt-80e274863244)
-- [Mobile App Pentesting: AndroGOAT Assessment Walkthrough](https://infosecwriteups.com/mobile-pentesting-androgoat-assessment-walkthrough-1a63a7edc677)
+- [Beginner’s Guide to Packaging and Distributing Dockerized Apps Across Major Linux Distributions](https://read.martiandefense.org/beginners-guide-to-packaging-and-distributing-dockerized-apps-across-major-linux-distributions-fcc13f0e2679?source=rss----a39b6037502e---4)
+- [Duplicati: Bypassing Login Authentication With Server-passphrase](https://read.martiandefense.org/duplicati-bypassing-login-authentication-with-server-passphrase-024d6991e9ee?source=rss----a39b6037502e---4)
+- [How I was able to Zero Click Account takeover with 3 different ways on the same Reset Password…](https://read.martiandefense.org/how-i-was-able-to-zero-click-account-takeover-with-3-different-ways-on-the-same-reset-password-2d50ecf69b83?source=rss----a39b6037502e---4)
+- [Bypassing Reset Password ATO &lpar;Account takeover&rpar; through JavaScript Breakpoints](https://read.martiandefense.org/bypassing-reset-password-ato-account-takeover-through-javascript-breakpoints-e71187ad7171?source=rss----a39b6037502e---4)
+- [Analyzing Game Cheats With StrCat](https://read.martiandefense.org/analyzing-game-cheats-with-strcat-fe4f9ec18d83?source=rss----a39b6037502e---4)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
